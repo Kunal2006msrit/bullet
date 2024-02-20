@@ -1,0 +1,8 @@
+setup.py
+Bullet_Point_Generator.egg-info/PKG-INFO
+Bullet_Point_Generator.egg-info/SOURCES.txt
+Bullet_Point_Generator.egg-info/dependency_links.txt
+Bullet_Point_Generator.egg-info/requires.txt
+Bullet_Point_Generator.egg-info/top_level.txt
+src/__init__.py
+src/bulletpointgenerator/__init__.py

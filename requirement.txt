@@ -6,5 +6,5 @@ PyPDF2
 whisper
 huggingsound 
 pytube 
-
+-e .
 

@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Bullet-Point-Generator
+Version: 0.0.1
+Author: Kunal Saurabh
+Author-email: kunal.cimfr20@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: pyPDF2
+Requires-Dist: whisper
+Requires-Dist: huggingsound
+Requires-Dist: pytube
